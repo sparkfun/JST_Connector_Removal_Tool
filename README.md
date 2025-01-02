@@ -5,7 +5,7 @@ SparkFun JST Connector Removal Tool
 
 [*SparkFun JST Connector Removal Tool (TOL-???)*](https://www.sparkfun.com/products/)
 
-A tool to remove a 2-pin JST connector from its housing! Easily remove a 2-pin JST-PH connector (2mm spacing) using the JST connector removal tool! Save your fingers from trying to pry the connector out of its housing. Avoid accidentally cutting or pinching the wires when using a diagonal cutter or needle nose pliers by using the JST connector removal tool! Simply slide the tool between the JST female connector and the male connector. With one hand holding the male connector, pull the JST female connector away.
+A tool to remove a standard 2-pin JST connector (2mm) from its housing! Easily remove a 2-pin JST-PH connector (2mm spacing) using the JST connector removal tool! Save your fingers from trying to pry the connector out of its housing. Avoid accidentally cutting or pinching the wires when using a diagonal cutter or needle nose pliers by using the JST connector removal tool! Simply slide the tool between the JST female connector and the male connector. With one hand holding the male connector, pull the JST female connector away.
 
 This part was 3D printed so there might be some slight imperfections due to supports left over from the print. You may need to adjust the 3D model depending on the 3D printer that you use! For example, the orientation of the keychain hole may not be ideal to print and may need to be adjusted or removed.
 
