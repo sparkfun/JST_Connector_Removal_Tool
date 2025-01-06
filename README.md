@@ -9,6 +9,15 @@ A tool to remove a standard 2-pin JST connector (2mm) from its housing! Easily r
 
 This part was 3D printed so there might be some slight imperfections due to supports left over from the print. You may need to adjust the 3D model depending on the 3D printer that you use! For example, the orientation of the keychain hole may not be ideal to print and may need to be adjusted or removed.
 
+Note: This tool was remixed from user [firia](https://www.thingiverse.com/thing:4554126/files)! The following changes were made:
+
+* height of walls increased to easily print from a LulzBot 3D printer
+* sweet logo of the SparkFun flame
+* smaller keychain hole
+* channel to guide the wire
+* fillet hard corners and edges
+* emboss SparkFun logo, name, and version number
+
 
 
 Repository Contents
