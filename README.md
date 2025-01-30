@@ -1,9 +1,9 @@
 SparkFun JST Battery Removal Tool
 ========================================
 
-[![SparkFun JST Battery Removal Tool](URL for picture of part)](https://www.sparkfun.com/products/)
+[![SparkFun JST Battery Removal Tool](https://www.sparkfun.com/media/catalog/product/cache/a793f13fd3d678cea13d28206895ba0c/2/7/27923-sparkfun_jst_battery_removal_tool-feature.jpg)](https://www.sparkfun.com/sparkfun-jst-battery-removal-tool.html)
 
-[*SparkFun JST Battery Removal Tool (TOL-27923)*](https://www.sparkfun.com/products/)
+[*SparkFun JST Battery Removal Tool (TOL-27923)*](https://www.sparkfun.com/sparkfun-jst-battery-removal-tool.html)
 
 The SparkFun JST battery removal tool is a tool to remove a standard 2-pin JST-PH connector (2mm pitch) from its housing! Easily remove a LiPo battery's 2-pin JST-PH female connector using the JST battery removal tool! Save your fingertips from grabbing the connector when wiggling the connector out. Avoid accidentally pinching the wires when using needle nose pliers. Or save your wires from being cut when using a diagonal cutter. Simply slide the tool over the LiPo battery's JST female connector with one hand. With your other hand holding the male connector, pull the JST female connector away to disconnect the battery!
 
@@ -29,11 +29,8 @@ Note: Thinking about printing your own? You may need to adjust the 3D models in 
 Repository Contents
 -------------------
 
-* **/3d_model** - 3D model files for printing (.stl are exported files for 3D printing, .form files are used with FormLab's Preform Software)
-    * **/v21/model_dimensions_v21f** - model dimension of v2.1f used for production
-    * **/v21/text_logos_vectors** - vector files used to help label tool and cut logo into shapes
-* **/production** - copy of v2.1 used for production
-
+* **/3D_Model** - 3D model files for printing (.stl are exported files for 3D printing)
+    * **/text_logos_vectors** - vector files used to help label tool and cut logo into shapes
 
 
 Documentation
@@ -45,7 +42,7 @@ Documentation
 
 Product Versions
 ----------------
-* [TOL-27923](https://www.sparkfun.com/products/) - v2.1f
+* [TOL-27923](https://www.sparkfun.com/sparkfun-jst-battery-removal-tool.html) - v2.1f
 
 
 
